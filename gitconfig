@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tahira1997@gmail.com
+	name = Thara Brou
